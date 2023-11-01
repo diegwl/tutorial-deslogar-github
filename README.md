@@ -35,9 +35,23 @@ Este é um exemplo de um commit que foi creditado à conta errada, por conta do 
 
 <img src='./passo4.png'>
 
-#### Agora você já está pronto para deixar seu ambiemte de trabalho!!!
+- Acessando AppData
 
-#### Obrigado pela atenção.
+<img src='./passo5.png'>
+
+- Arquivo .gitconfig
+
+<img src='./passo6.png'>
+
+- Possível configuração de usuário
+
+<img src='./passo7.png'>
+
+- Apagando configuração
+
+<img src='./passo8.png'>
+
+- Agora você já está pronto para deixar seu ambiemte de trabalho!!! Obrigado pela atenção.
 
 ### Autores
 
