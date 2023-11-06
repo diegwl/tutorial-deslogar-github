@@ -60,3 +60,7 @@ Este é um exemplo de um commit que foi creditado à conta errada, por conta do 
 - [AngeloCarnevale](https://github.com/AngeloCarnevale)
 - [Diegojacober](https://github.com/Diegojacober)
 - [nisiq](https://github.com/nisiq)
+
+### Pessoas que esqueceram
+
+- [dudacatalao](https://github.com/dudacatalao)
