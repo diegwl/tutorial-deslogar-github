@@ -51,7 +51,7 @@ Este é um exemplo de um commit que foi creditado à conta errada, por conta do 
 
 <img src='./passo8.png'>
 
-- Agora você já está pronto para deixar seu ambiemte de trabalho!!! Obrigado pela atenção.
+- Agora você já está pronto para deixar seu ambiente de trabalho!!! Obrigado pela atenção.
 
 ### Autores
 
